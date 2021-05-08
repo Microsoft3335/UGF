@@ -1,2 +1,2 @@
 # UGF
-usf is game
+ugf是一个枪战游戏
